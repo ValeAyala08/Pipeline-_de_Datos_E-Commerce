@@ -1,0 +1,4 @@
+venv/
+__Pycache__/
+dataset/
+olist.db
